@@ -1,2 +1,2 @@
 # MyFirstProject
-code project
+Some description of my code project!
